@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>IB-MaskIcons</key>
+    <true/>
+
+    <key>CalendarIconDateStyle</key>
+    <string>
+    padding: 1px 2px;
+    color: #444;
+    font-size: 32px;
+    position: relative;
+    top: 6px;
+    left: -2px;
+    </string>
+
+    <key>CalendarIconDayStyle</key>
+    <string>
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    font-size: 0px;
+    </string>
+</dict>
+</plist>
